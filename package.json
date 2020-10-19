@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/AmineBenAhmed/K_Means.git"
   },
-  "author": "",
+  "author": "Amine Ben ahmed",
   "license": "ISC",
+  "keywords": [
+  "k-means algorithm with javascript"
+  ]
   "bugs": {
     "url": "https://github.com/AmineBenAhmed/K_Means/issues"
   },
