@@ -1,0 +1,25 @@
+{
+  "name": "k_means",
+  "version": "1.0.0",
+  "description": "this is a clustering tool that groups a given locations array every element must be an object in this form {latitude: ..., longitude: ...} the determination of the K clusters is made with Silhouhette method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineBenAhmed/K_Means.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmineBenAhmed/K_Means/issues"
+  },
+  "homepage": "https://github.com/AmineBenAhmed/K_Means#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "geolib": "^3.3.1"
+  }
+}
